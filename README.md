@@ -1,6 +1,6 @@
 # Test-Automation
 Basic Selenium automation with Java.
-1. Register and login forms -
-   https://magento.softwaretestingboard.com
+Register and login forms -
+   https://magento.softwaretestingboard.com </br>
    https://ultimateqa.com/automation
       
